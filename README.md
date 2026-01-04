@@ -15,7 +15,7 @@ I'm focused on strengthening my fundamentals while building practical projects.
 ## Projects
 
 **Video Transcription App** — Django application for automated video transcription  
-`Django` `Python` `[add other tech used]`
+`Django` `Python`
 
 **Homelab API Gateway** — Unified FastAPI backend serving multiple homelab applications  
 `FastAPI` `Python` `Microservices`
