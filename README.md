@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Weldon Magnus 👋
 
-<!--
-**CascadeCore/CascadeCore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**@CascadeCore**
 
-Here are some ideas to get you started:
+**First-year CS student** learning to build things that matter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying Computer Science
+
+## What I'm Building
+
+I'm focused on strengthening my fundamentals while building practical projects.
+**Learning Stack:**  
+`Python` `JavaScript` `Kubernetes` `Docker` `FastAPI` `Django`
+
+## Projects
+
+**Video Transcription App** — Django application for automated video transcription  
+`Django` `Python` `[add other tech used]`
+
+**Homelab API Gateway** — Unified FastAPI backend serving multiple homelab applications  
+`FastAPI` `Python` `Microservices`
+
+**Homelab Infrastructure** — Personal Kubernetes cluster for learning DevOps and self-hosting  
+`Kubernetes` `Docker` `Linux`
+
+## Currently Learning
+
+→ Kubernetes orchestration and microservices architecture  
+→ Building scalable APIs and service integration with FastAPI  
+→ Infrastructure automation and self-hosted applications
+
+---
+
+🎓 First year • Always learning  
+📫 Open to collaboration and learning opportunities
