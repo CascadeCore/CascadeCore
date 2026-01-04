@@ -1,6 +1,6 @@
 # Hey, I'm Weldon Magnus 👋
 
-**@CascadeCore**
+** aka @CascadeCore**
 
 **First-year CS student** learning to build things that matter.
 
